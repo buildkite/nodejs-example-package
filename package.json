@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-example-package",
+  "version": "1.0.1",
+  "description": "An example Node.js package for Buildkite Packages",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "A Person",
+  "license": "MIT"
+}
