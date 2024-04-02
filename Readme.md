@@ -21,4 +21,4 @@ npm publish
 
 ## License
 
-See [Licence.md](Licence.md) (MIT)
+See the [LICENCE](LICENCE) (MIT).
