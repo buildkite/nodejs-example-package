@@ -11,7 +11,13 @@ This repository provides an example of a basic [Node.js](https://nodejs.org/) pr
 npm run main
 ```
 
-## Publish 
+## Publish
+
+After configuring your Node.js environment to publish packages to your Buildkite Packages Node.js package registry, you can publish these packages with the command:
+
+```bash
+npm publish
+```
 
 ## License
 
