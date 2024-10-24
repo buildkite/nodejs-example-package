@@ -1,6 +1,6 @@
-# Buildkite Node.js Package Example
+# Buildkite Node.js Example Package
 
-This repository provides an example of a basic [Node.js](https://nodejs.org/) project that you can build locally to publish to [Buildkite Packages](https://buildkite.com/organizations/~/packages).
+This repository provides an example of a basic [Node.js](https://nodejs.org/) project that you can build locally to publish to [Buildkite Package Registries](https://buildkite.com/organizations/~/packages).
 
 > [!NOTE]
 > This example assumes you have already installed Node.js locally.
